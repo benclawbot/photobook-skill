@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photobook"
+  short_description: "Create curated, print-ready photo books from supplied images"
+  default_prompt: "Create a polished photobook from the supplied photos, organizing the images into coherent visual themes and laying out varied pages."
